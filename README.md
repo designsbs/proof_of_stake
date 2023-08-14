@@ -1,7 +1,7 @@
 # proof_of_stake
 1. Que es?
 2. [caracteristicas principales](#caracteristicas principales)
-3. [Installation](#installation)
+3. [su importancia](#su importancia)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
