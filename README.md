@@ -1,4 +1,4 @@
-# proof_of_stake.
+# proof_of_stake....
 1. [Que es?](#Que-es?).
 2. [caracteristicas principales](#caracteristicas_principales)
 3. [su importancia](#su_importancia)
